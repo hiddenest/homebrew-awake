@@ -13,6 +13,6 @@ class Awake < Formula
   end
 
   test do
-    assert_match "Usage:", shell_output("#{bin}/awake --help")
+    assert_match "Usage:", shell_output("#{bin}/awake setup --help")
   end
 end
