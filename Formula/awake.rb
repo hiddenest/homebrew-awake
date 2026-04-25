@@ -1,8 +1,8 @@
 class Awake < Formula
   desc "Keep your Mac awake while AI coding CLIs are doing real work"
   homepage "https://github.com/hiddenest/awake"
-  url "https://github.com/hiddenest/awake/archive/refs/tags/v0.2.3.tar.gz"
-  sha256 "5ca5ed4ffe2e77b61fcbfd8a75ea60648131d2b43834b54d1924248e63f4a1b2"
+  url "https://github.com/hiddenest/awake/archive/refs/tags/v0.2.4.tar.gz"
+  sha256 "92043ede115d5495fefc21b00a0c3f942e717a4b97af3d044a7eeaadf006c6f3"
   license "MIT"
   head "https://github.com/hiddenest/awake.git", branch: "main"
 
